@@ -7,16 +7,12 @@
 - C. Amazon RDS
 - D. Amazon EBS
 
----
-
 ## 2. What is the main benefit of using AWS compared to on-premises servers?
 
 - A. Higher electricity usage
 - B. Manual scalability
 - C. Pay-as-you-go pricing
 - D. Physical control of hardware
-
----
 
 ## 3. Which service helps you monitor AWS resources and applications in real-time?
 
@@ -25,16 +21,12 @@
 - C. Amazon CloudWatch
 - D. AWS Inspector
 
----
-
 ## 4. Which AWS service provides a fully managed relational database?
 
 - A. Amazon DynamoDB
 - B. Amazon RDS
 - C. Amazon Redshift
 - D. Amazon ElastiCache
-
----
 
 ## 5. What does the AWS Shared Responsibility Model state?
 
@@ -43,16 +35,12 @@
 - C. AWS manages security of the cloud, customers manage security in the cloud
 - D. Customers manage both infrastructure and physical security
 
----
-
 ## 6. What is the primary benefit of using AWS Availability Zones?
 
 - A. Lower network speed
 - B. Improved fault tolerance
 - C. Increased billing rates
 - D. Single point of failure
-
----
 
 ## 7. Which AWS service is used to deliver content with low latency using edge locations?
 
@@ -61,16 +49,12 @@
 - C. AWS CloudFormation
 - D. Amazon CloudFront
 
----
-
 ## 8. Which support plan is best suited for personal AWS projects with minimal cost?
 
 - A. Business
 - B. Developer
 - C. Basic
 - D. Enterprise
-
----
 
 ## 9. What is an AWS Region?
 
@@ -79,16 +63,12 @@
 - C. A geographic location with multiple data centers
 - D. A virtual private network
 
----
-
 ## 10. Which service lets you run code without provisioning or managing servers?
 
 - A. Amazon EC2
 - B. AWS Lambda
 - C. Amazon EBS
 - D. Amazon RDS
-
----
 
 ## 11. Which of the following groups of AWS services are all _global services_ that do **not require selecting a specific region**?
 
@@ -97,16 +77,12 @@
 - C. CloudFront, Route 53, IAM
 - D. EBS, EFS, S3
 
----
-
 ## 12. How many Availability Zones (AZs) are there at a minimum in an AWS Region?
 
 - A. 1
 - B. 2
 - C. 3
 - D. 4
-
----
 
 ## 13. Which AWS service allows you to create and manage users and permissions?
 
@@ -115,16 +91,12 @@
 - C. Amazon EC2
 - D. AWS Config
 
----
-
 ## 14. What does Amazon EC2 provide?
 
 - A. Managed database service
 - B. Scalable virtual servers in the cloud
 - C. Content delivery network
 - D. Object storage
-
----
 
 ## 15. Which pricing model allows you to reserve capacity in advance for significant savings?
 
@@ -133,16 +105,12 @@
 - C. Reserved Instances
 - D. Spot Instances
 
----
-
 ## 16. Which tool lets you estimate AWS service costs before using them?
 
 - A. AWS Budgets
 - B. AWS Pricing Calculator
 - C. AWS Cost Explorer
 - D. AWS Trusted Advisor
-
----
 
 ## 17. What does AWS Auto Scaling help you achieve?
 
@@ -151,16 +119,12 @@
 - C. Automatically adjust resources based on demand
 - D. Restrict usage to a single instance
 
----
-
 ## 18. What kind of storage is Amazon EBS primarily used for?
 
 - A. Object storage for backups
 - B. Block storage for EC2 instances
 - C. File storage for mobile apps
 - D. CDN caching
-
----
 
 ## 19. Which AWS service helps migrate databases to AWS easily?
 
@@ -169,16 +133,12 @@
 - C. AWS Snowball
 - D. AWS CodeDeploy
 
----
-
 ## 20. Which AWS service helps define infrastructure as code?
 
 - A. Amazon S3
 - B. Amazon EC2
 - C. AWS CloudFormation
 - D. AWS Config
-
----
 
 ## ✅ Answer Key
 
